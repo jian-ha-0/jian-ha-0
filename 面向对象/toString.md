@@ -1,0 +1,5 @@
+当我们输出一个引用对象的时，实际上是在调用他的toString。
+像String。date。包装类等都重写了他们的toistring，所以在调用tostring，时，
+返回的时他们的实体
+
+自定义类需要重写tostring方法，才能使用tostring输出他的实体

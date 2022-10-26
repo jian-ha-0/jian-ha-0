@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "1944be0f58d01d59",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8f1da874d7ca0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac313d13d3cce0d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面向对象/toString.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "04c65c48b70d818e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面向对象/包装类.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "989b098f586e4cd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e368a181fc058b93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0bbe62b4d7ca4b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0df574ea5b7a79b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33d4aaff57c0ca4b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261.5
+  },
+  "right": {
+    "id": "aedb0384928adee7",
+    "type": "split",
+    "children": [
+      {
+        "id": "58d07f1d53f7c185",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7974bea71ffaaed2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "面向对象/包装类.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b5a1901e69ab5a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "面向对象/包装类.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "360411f227b8e8a6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf78843df8f1bd1c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面向对象/包装类.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f0bbe62b4d7ca4b5",
+  "lastOpenFiles": [
+    "面向对象/toString.md",
+    "枚举与注解/枚举类.md",
+    "面向对象/==与equals的区别.md",
+    "面向对象/多态性.md",
+    "面向对象/继承.md",
+    "面向对象/对象的内存解析.md",
+    "面向对象/关键字.md",
+    "java.md",
+    "Pasted image 20221026124705.png",
+    "Pasted image 20221026124657.png"
+  ]
+}
